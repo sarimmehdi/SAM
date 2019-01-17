@@ -1,0 +1,7 @@
+<controller>
+    <Kp>1</Kp>
+	<Kd>0.5</Kd>
+	<Ki>0.1</Ki>
+	<maxSpeed>300</maxSpeed>
+	<minSpeed>100</minSpeed>
+</controller>

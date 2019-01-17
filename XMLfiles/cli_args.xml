@@ -1,0 +1,26 @@
+<CLI>
+	<!--0: Do you want ROI-->
+	<argv>false</argv>
+	<!--1: Do you want HSV-->
+	<argv>false</argv>
+	<!--2: Do you want to callibrate your camera-->
+	<argv>false</argv>
+	<!--3: Do you want to generate aruco markers-->
+	<argv>false</argv>
+	<!--4: Do you want to give input-->
+	<argv>true</argv>
+	<!--5: Do you want to train-->
+	<argv>false</argv>
+	<!--6: Do you want to gather data-->
+	<argv>false</argv>
+	<!--7: Do you want to label gathered data-->
+	<argv>false</argv>
+	<!--8: Do you want to compress the gathered data after labeling it-->
+	<argv>false</argv>
+	<!--9: Do you want to see all log messages in while loop-->
+	<argv>false</argv>
+	<!--10: Do you want to train your neural network-->
+	<argv>false</argv>
+	<!--11: Do you want to use SNN for training-->
+	<argv>false</argv>
+</CLI>

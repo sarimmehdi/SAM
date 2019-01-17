@@ -1,0 +1,13 @@
+<maneuverList>
+	<maneuver name="right"/>
+	<maneuver name="left"/>
+	<maneuver name="left"/>
+	<maneuver name="right"/>
+	<maneuver name="straight"/>
+	<maneuver name="straight"/>
+	<maneuver name="straight"/>
+	<maneuver name="left"/>
+	<maneuver name="right"/>
+	<maneuver name="left"/>
+	<maneuver name="straight"/>
+</maneuverList>

@@ -1,0 +1,8 @@
+<HSV>
+    <lowerHThresh>148</lowerHThresh>
+    <upperHThresh>152</upperHThresh>
+    <lowerSThresh>0</lowerSThresh>
+    <upperSThresh>26</upperSThresh>
+    <lowerVThresh>218</lowerVThresh>
+    <upperVThresh>255</upperVThresh>
+</HSV>

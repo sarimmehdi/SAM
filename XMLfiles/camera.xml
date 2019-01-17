@@ -1,0 +1,16 @@
+<camera>
+    <camera_callib>2103.2830349206924</camera_callib>
+    <camera_callib>0</camera_callib>
+    <camera_callib>22.257962486854289</camera_callib>
+    <camera_callib>0</camera_callib>
+    <camera_callib>2624.5480022898819</camera_callib>
+    <camera_callib>101.59507122013326</camera_callib>
+    <camera_callib>0</camera_callib>
+    <camera_callib>0</camera_callib>
+    <camera_callib>1</camera_callib>
+    <dist_coeffs>-0.46778733877577516</dist_coeffs>
+    <dist_coeffs>0.75261768644146942</dist_coeffs>
+    <dist_coeffs>0.018115753757749882</dist_coeffs>
+    <dist_coeffs>-0.060307479421768624</dist_coeffs>
+    <dist_coeffs>-0.41761981676692855</dist_coeffs>
+</camera>
