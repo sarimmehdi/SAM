@@ -1,0 +1,18 @@
+<map>
+	<anchor x="70" y="70"/>
+	<endpoint x="512" y="512"/>
+	<tiles>
+		<block name="straightDown" x="100" y="100" length="50" outward="-3"/>
+		<block name="curveDownLeft" centerX="125" centerY="150" radius="25" outward="3"/>
+		<block name="straightRight" x="125" y="175" length="50" outward="3"/>
+		<block name="curveUpRight" centerX="175" centerY="200" radius="25" outward="-3"/>
+		<block name="straightDown" x="200" y="200" length="50" outward="-3"/>
+		<block name="curveDownLeft" centerX="225" centerY="250" radius="25" outward="3"/>
+		<block name="straightRight" x="225" y="275" length="50" outward="3"/>
+		<block name="curveDownRight" centerX="275" centerY="250" radius="25" outward="3"/>
+		<block name="straightUp" x="300" y="250" length="150" outward="3"/>
+		<block name="curveUpRight" centerX="275" centerY="100" radius="25" outward="3"/>
+		<block name="straightLeft" x="275" y="75" length="150" outward="-3"/>
+		<block name="curveUpLeft" centerX="125" centerY="100" radius="25" outward="3"/>
+	</tiles>
+</map>

@@ -1,0 +1,14 @@
+<maneuverList>
+    <!--0 = left, 1 = right, 2 = straight, 3 = park-->
+	<maneuver name="right" value="1"/>
+	<maneuver name="left" value="0"/>
+	<maneuver name="left" value="0"/>
+	<maneuver name="right" value="1"/>
+	<maneuver name="straight" value="2"/>
+	<maneuver name="straight" value="2"/>
+	<maneuver name="straight" value="2"/>
+	<maneuver name="left" value="0"/>
+	<maneuver name="right" value="1"/>
+	<maneuver name="left" value="0"/>
+	<maneuver name="straight" value="2"/>
+</maneuverList>
